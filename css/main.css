@@ -1,0 +1,186 @@
+#map {
+  height: 100vh;
+  z-index: 1;
+}
+
+#legend_table{
+  overflow:hidden;
+  width:100%;
+  
+}
+
+#legend {
+  position: absolute;
+  /* left: 1.1%; */
+  z-index: 2;
+  background-color: #fff;
+  padding: 5px;
+  border: 1px solid #999;
+  text-align: left;
+  font-family: 'Roboto', 'sans-serif';
+  line-height: 30px;
+  bottom: 0;
+  width:100%
+}
+
+
+/* Optional: Makes the sample page fill the window. */
+html,
+body {
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+
+#infoBox {
+  display: flex;
+  flex-direction: row;
+  align-content: flex-start;
+  flex-wrap: nowrap;
+  max-height: 70vh;
+  flex:1;
+  /* max-width: -moz-min-content; */
+
+}
+
+.heading {
+  font-weight: bold;
+}
+
+.table {
+  display: table;
+  /* Allow the centering to work */
+  margin: 0 auto;
+}
+
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 1%;
+  flex-wrap: nowrap;
+  max-width: 100%;
+  max-height: 50vh;
+  height: auto;
+  width: auto\9;
+  /* ie8 */
+}
+
+.boxContent {
+  text-align: middle;
+  width: 50%;
+  max-height: 100vh;
+  margin: 5px;
+  color: black;
+  flex: 1;
+  display: flex-box;
+}
+
+.popupText {
+  text-align: center;
+  margin-top: 5%;
+}
+
+.header {
+  width: 100%;
+  display: flex;
+}
+
+.header50 {
+  flex: 1
+}
+
+#legend_table ul {
+ display: flex;
+justify-content: space-around;
+/*  border: 2px solid black; */
+padding:0;
+  
+}
+
+#legend_table li {
+  float: left;
+  text-align: left;
+  /* border: 2px solid red; */
+  list-style-type: none;
+  width: 50%;
+  
+}
+#legend_table label{
+  display: block;
+  text-align: center;
+  margin-left: 25%;
+  /* outline: 1px solid blue; */
+  
+}
+
+input[type=checkbox] {
+  /* outline: 1px solid red; */
+  width: auto;
+  transform: scale(2);
+  margin: auto 50% auto;
+}
+
+#legend_button {
+  visibility: hidden;
+  display: none;
+  z-index: 3;
+
+}
+
+#legend #submitLegend {
+  visibility: hidden;
+  display: none;
+}
+
+@media screen and (max-width: 750px) {
+  #legend {
+    visibility: hidden;
+    clear: both;
+    float: left;
+    margin: auto;
+    width: 28%;
+    display: none;
+    
+  }
+  #legend_table{
+    margin: auto
+  }
+
+  #legend #submitLegend {
+    visibility: visible;
+    display: block;
+    margin: auto;
+  }
+
+  #legend_button {
+    position: absolute;
+    font-size: 5vw;
+    visibility: visible;
+    display: inline;
+    width: 100%;
+    z-index: 2;
+
+
+  }
+
+  #infoBox {
+    height: 100%;
+    width: 100%;
+    top: 0;
+    bottom:0 ;
+    display: flex;
+    background: white;
+    max-width: 100%;
+  }
+  #infoBox figure {
+  height: auto;
+  flex:1
+  }
+  #legend_table ul {
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+  };
+}
