@@ -201,9 +201,9 @@ function initMap() {
   map.data.loadGeoJson('assets/records.geojson');
 
   createTypeToggles()
-  // google.maps.event.addListenerOnce(map, 'idle', function(){
-  //   map.fitBounds(bounds)
-  // });
+  //google.maps.event.addListenerOnce(map, 'idle', function(){
+  //  map.fitBounds(bounds)
+  //});
   // lastIcon = map.getCenter();
 
 //   google.maps.event.addListener(map, 'bounds_changed', function() {
