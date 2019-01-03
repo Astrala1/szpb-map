@@ -205,9 +205,9 @@ function initMap() {
   //TODO : figure out wierd bounding issue in the middle of the ocean.
   //        possible jquery async?
 
-  google.maps.event.addListenerOnce(map, 'idle', function(){
-   map.fitBounds(bounds)
-  });
+  // google.maps.event.addListenerOnce(map, 'idle', function(){
+  //  map.fitBounds(bounds)
+  // });
   // lastIcon = map.getCenter();
 
 //   google.maps.event.addListener(map, 'bounds_changed', function() {
