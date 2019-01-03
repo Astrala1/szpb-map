@@ -21,7 +21,7 @@ const icons = {
   },
   "Pamatnik": {
     img:"pamatnik_icon.png",
-    sType:"Památník"
+    sType:"Pamätník"
   }
 };
 
@@ -61,16 +61,16 @@ function toggleMarker(mark_type) {
 
 function createTypeToggles() {
   types = Object.keys(icons)
-  var toggleDiv = document.getElementById("legend");
-  var table = document.createElement('div')
+  let toggleDiv = document.getElementById("legend");
+  let table = document.createElement('div')
   table.setAttribute('class','table')
   table.setAttribute('id','legend_table')
-  var toggleDivUL = document.createElement("ul");
+  let toggleDivUL = document.createElement("ul");
   for (let i = 0; i < types.length; i++) {
-    var li = document.createElement('li');
+    let li = document.createElement('li');
     li.className = 'markerSelect';
 
-    var typeSelector = document.createElement('input');
+    let typeSelector = document.createElement('input');
     typeSelector.type = 'checkbox';
     typeSelector.setAttribute('id', types[i] + "_toggle");
     typeSelector.setAttribute('checked', true);
@@ -82,13 +82,14 @@ function createTypeToggles() {
     // Create the label and the associated name
     let label = document.createElement('label');
     label.setAttribute('for', typeSelector.getAttribute('id'))
-    var t = document.createTextNode(icons[types[i]].sType);
+    let t = document.createTextNode(icons[types[i]].sType);
     label.appendChild(t)
 
     li.appendChild(label);
     li.appendChild(typeSelector);
 
-    li.setAttribute('style', 'background:url("' + map_image_pth + icons[types[i]].img + '") no-repeat 7px 7px transparent;')
+    //TODO: figure out how to get the li close to text responsively.
+    li.setAttribute('style', 'background:url("' + map_image_pth + icons[types[i]].img + '") no-repeat 7px 50% transparent;')
 
 
     toggleDivUL.appendChild(li);
@@ -97,7 +98,7 @@ function createTypeToggles() {
   table.appendChild(toggleDivUL)
 
 
-  var submitLegend = document.createElement("input");
+  let submitLegend = document.createElement("input");
   submitLegend.setAttribute('id','submitLegend')
   submitLegend.setAttribute('type','button')
   submitLegend.setAttribute('class','w3-button w3-red')
@@ -109,7 +110,7 @@ function createTypeToggles() {
   toggleDiv.appendChild(table)
 
 
-  // var styleControl = document.getElementById('legend');
+  // let styleControl = document.getElementById('legend');
   // map.controls[google.maps.ControlPosition.BOTTOM_LEFT].push(styleControl);
 
 
@@ -117,7 +118,7 @@ function createTypeToggles() {
 }
 
 function openLegend(){
-  var legend = document.getElementById('legend')
+  let legend = document.getElementById('legend')
   if (legend.style.height==='100vh'){
     legend.removeAttribute("style")
   }
@@ -132,9 +133,9 @@ function openLegend(){
 
 
 function setMarker(map, feature,infowindow) {
-  var latLng = feature.getGeometry().get();
+  let latLng = feature.getGeometry().get();
 
-  var marker = new google.maps.Marker({
+  let marker = new google.maps.Marker({
     position: latLng,
     icon: map_image_pth + icons[feature.getProperty("type")].img,
     map: map,
@@ -142,8 +143,8 @@ function setMarker(map, feature,infowindow) {
   });
 
   if (!markerArr[feature.getProperty("type")]) markerArr[feature.getProperty("type")] = [];
-
   markerArr[feature.getProperty("type")].push(marker);
+
   bounds.extend(latLng)
 
   google.maps.event.addListener(marker,"click",() =>{
@@ -153,7 +154,6 @@ function setMarker(map, feature,infowindow) {
       img: feature.getProperty("imgPath"),
       type: icons[feature.getProperty("type")].sType
     }
-
 
     infowindow.setContent(makePopUp(info));
     // position the infowindow on the marker
@@ -201,9 +201,13 @@ function initMap() {
   map.data.loadGeoJson('assets/records.geojson');
 
   createTypeToggles()
-  //google.maps.event.addListenerOnce(map, 'idle', function(){
-  //  map.fitBounds(bounds)
-  //});
+
+  //TODO : figure out wierd bounding issue in the middle of the ocean.
+  //        possible jquery async?
+
+  google.maps.event.addListenerOnce(map, 'idle', function(){
+   map.fitBounds(bounds)
+  });
   // lastIcon = map.getCenter();
 
 //   google.maps.event.addListener(map, 'bounds_changed', function() {
