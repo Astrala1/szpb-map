@@ -1,26 +1,86 @@
 #map {
-  height: 100vh;
+  height: 90%;
   z-index: 1;
+  flex:1;
+}
+.container{
+  display: flex;
+  height: 100vh;
+  flex-direction: column;
+  flex-grow: 1;
+  box-sizing: border-box;
+  min-height: 100vh;
+}
+.map_container{
+  height:95vh;
+  min-height: 50vh;
+  flex-grow: 1;
+  justify-content:space-evenly;
+  box-sizing: border-box;
+  flex-shrink: 1;
 }
 
 #legend_table{
   overflow:hidden;
   width:100%;
+  display: inline-flex;
+  flex:auto;
+  box-sizing: border-box;
+  flex-direction : row;
+  justify-content:space-evenly;
+  flex-shrink: 2;
+  flex-grow: 2;
   
 }
+ul {
+  display: flex;
+  align-items: stretch; /* Default */
+  justify-content: space-between;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  flex-basis: 25%;
+  flex:auto;
+  z-index:1;
+}
+#legend_table>li, #legend_table>input,#legend_table>label {
+  display: block;
+  flex: 1 auto; /* Default */
+  list-style-type: none;
+  background: #fafafa;
+  /* flex-shrink: 2; */
+  z-index: 1;
+  position: relative;
+}
+.footer {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: white;
+  color: black;
+  text-align: center;
+  box-sizing: border-box;
+  flex:1 auto;
+  z-index: 1;
+  /* border: 3px solid black; */
+
+}
+*{box-sizing: border-box;}
 
 #legend {
-  position: absolute;
-  /* left: 1.1%; */
   z-index: 2;
   background-color: #fff;
   padding: 5px;
   border: 1px solid #999;
+  /* border: 1px solid black; */
   text-align: left;
   font-family: 'Roboto', 'sans-serif';
   line-height: 30px;
-  bottom: 0;
-  width:100%
+  width:100%;
+  flex:1 auto;
+  flex-grow: 1;
+  flex-shrink: 2;
+  box-sizing: border-box;
 }
 
 
@@ -134,6 +194,7 @@ input[type=checkbox] {
 }
 
 @media screen and (max-width: 750px) {
+  
   #legend {
     visibility: hidden;
     clear: both;
@@ -158,7 +219,6 @@ input[type=checkbox] {
     font-size: 5vw;
     visibility: visible;
     display: inline;
-    width: 100%;
     z-index: 2;
 
 
