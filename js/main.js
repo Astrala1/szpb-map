@@ -97,7 +97,6 @@ function createTypeToggles() {
   }
   table.appendChild(toggleDivUL)
 
-
   let submitLegend = document.createElement("input");
   submitLegend.setAttribute('id','submitLegend')
   submitLegend.setAttribute('type','button')
@@ -106,6 +105,7 @@ function createTypeToggles() {
   submitLegend.setAttribute('onclick','openLegend()')
 
   table.appendChild(submitLegend)
+  
 
   toggleDiv.appendChild(table)
 
@@ -119,12 +119,16 @@ function createTypeToggles() {
 
 function openLegend(){
   let legend = document.getElementById('legend')
-  if (legend.style.height==='100vh'){
-    legend.removeAttribute("style")
+  let map_div = document.getElementById('map')
+  if (map_div.className==='invisible'){
+    legend.setAttribute("style","width:null;display:null;visibility:null;")
+    map_div.setAttribute('class','map_container')
+    
+
   }
   else{
-    legend.setAttribute('style','height:100vh; width:100%;display:flex;visibility:visible;position:fixed')
-
+    legend.setAttribute('style','width:100%;display:flex;visibility:visible;')
+    map_div.setAttribute('class','invisible')
   }
 
 
