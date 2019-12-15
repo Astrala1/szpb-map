@@ -1140,7 +1140,7 @@
       "type": "Feature"
     }, {
       "geometry": {
-        "coordinates": [48.902144, 18.012729],
+        "coordinates": [18.012729,48.902144],
         "type": "Point"
       },
       "properties": {
@@ -1283,7 +1283,7 @@
       "type": "Feature"
     }, {
       "geometry": {
-        "coordinates": [17.982043, 48994993.0],
+        "coordinates": [17.982043, 48.994993],
         "type": "Point"
       },
       "properties": {
