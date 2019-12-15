@@ -1,7 +1,6 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
+  "features": [{
       "geometry": {
         "coordinates": [
           18.405189514160156,
@@ -967,6 +966,683 @@
         "imgPath": " ",
         "name": "Zliechov",
         "type": "Vypalene obce"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [18.034832, 48.87544],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91101,
+        "description": "Trenčín - pamätník oslobodenia mesta. Pri cintoríne na Soblahovskej ulici v parčíku je pamätník venovaný pamiatke oslobodenia mesta v roku 1945. ",
+        "imgPath": "91101_tndelo.jpg",
+        "name": "Trencin-Soblahovska",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.038697, 48.892386],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91102,
+        "description": "Trenčín - PK OS SR. Na priečelí budovy Posádkového klubu v Trenčíne je osadená pamätná tabuľa venovaná osloboditeľom Trenčianskeho okresu. \nTU POLOŽILO SVOJE ŽIVOTY 1381 VOJAKOV 1. RUMUNSKEJ ARMÁDY A 1255 VOJAKOV 40. SOVIETSKEJ ARMÁDY 2. UKRAJINSKÉHO FRONTU.",
+        "imgPath": "91102_tn_oda.jpg",
+        "name": "Trencin-ODA",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.078453, 48.893439],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91103,
+        "description": "Trenčín - Kubranská ulica. Na Kubranskej ulici pred materskou školou stojí pomník padlým v 2. svetovej vojne.",
+        "imgPath": "91103_tnkubra1.jpg",
+        "name": "Trencin-Kubranska",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.082789, 48.893209],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91104,
+        "description": "Trenčín - Kubra cintorín. Na miestnom cintoríne je pochovaný vojak rumunskej armády, ktorý padol v oslobodzovacích bojoch v apríli 1945. ",
+        "imgPath": "91104_tnkubra2.jpg",
+        "name": "Trencin-Kubra",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.002762, 48.868998],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91105,
+        "description": "Trenčín - letisko. Na pravej strane čelnej steny budovy letovej kontroly (riadiacej veže) sú umiestnené tri pamätné tabule venované dôstojníkom a generálom letectva, príslušníkom odboja, ktorí pôsobili na letisku v čase 2. svetovej vojny.  ",
+        "imgPath": "91105_tnletisko.jpg",
+        "name": "Trencin-letisko",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.050117, 48.895673],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91106,
+        "description": "Trenčín - OD MADOV. V obchodnom dome Madov na ulici Kragujevských hrdinov č. 10 je osadená pamätná tabuľa z tmavej žuly venovaná pamiatke Jána Kovarčíka zavraždenému gestapom 20.3.1945 na Brezine.",
+        "imgPath": "91106_tnmadov.jpg",
+        "name": "Trencin-Madov",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.038123, 48.90397],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91107,
+        "description": "Trenčín - Orechové. Na pomníku padlých v 1. svetovej vojne pri miestnom kostole je umiestnená na jeho čelnej strane tmavá žulová tabuľa s menami padlých v 2. svetovej vojne.",
+        "imgPath": "91107_tnorechove.jpg",
+        "name": "Trencin-Orechove",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.026535, 48.894888],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91108,
+        "description": "Trenčín - OZETA. Pri vstupe do bývalého podniku OZETA je osadená bronzová tabuľa venovaná pamiatke zamestnancov padlých v Slovenskom národnom povstaní. ",
+        "imgPath": "91108_tnozeta.jpg",
+        "name": "Trencin-Ozeta",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.044917, 48.897478],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91109,
+        "description": "Trenčín - Sokolovňa. Na hornej Sihoti, na budove Sokolovne sú osadené dve pamätné tabule. Prvá pamätná tabuľa je venovaná pamiatke Janka Šebíka. \nDruhá pamätná tabuľa umiestnená na budove je venovaná pamiatke členov Sokola - účastníkov odboja v 2. svetovej vojne a SNP. ",
+        "imgPath": "91109_tnsokol.jpg",
+        "name": "Trencin-Sokolovna",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.039424, 48.894612],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91110,
+        "description": "Trenčín - Synagóga. Na budove synagógy je umiestnená pamätná tabuľa venovaná pamiatke 1573 žiodvských občanov Trenčína odvlečených, umučených a padlých počas 2. svetovej vojny. ",
+        "imgPath": "91110_tnsynagoga.jpg",
+        "name": "Trencin-Synagoga",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.050904, 48.898421],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91111,
+        "description": "Trenčín - veliteľstvo. Pri vstupe do budovy Veliteľstva pozemných síl OS SR na Rázusovej ul. sú po stranách hlavného vchodu do budovy umiestnené dve pamätné tabule venované dôstojníkom a generálom, príslušníkom odboja, ktorí pôsobili v budove veliteľstva v čase 2. svetovej vojny.     ",
+        "imgPath": "91111_tnvelitel.jpg",
+        "name": "Trencin-velitelstvo",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.014123, 48.902292],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91112,
+        "description": "Trenčín - Zlatovce. Na budove Kultúrneho domu v Zlatovciach je umiestnená pamätná tabuľa venovaná letcovi Jánovi Prháčkovi, ktorý zahynul pri obrane Slovenska 24.3.1939.",
+        "imgPath": "91112_tnzlatovce1.jpg",
+        "name": "Trencin-Zlatovce",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.051154, 48.896341],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91113,
+        "description": "Trenčín - železničná stanica. Na budove železničnej stanice je umiestnená pamätná tabuľa, venovaná železničiarom palým v SNP. ",
+        "imgPath": "91113_tnzelstanica.jpg",
+        "name": "Trencin-stanica",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [48.902144, 18.012729],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91114,
+        "description": "Trenčín - Zlatovce. Na budove Materskej školy je umiestnená pamätná tabuľa hrdinom padlým v boji za slobodu, ktorí zahynuli v koncentračných táboroch a pri prechode frontu.",
+        "imgPath": "91114_tnzlatovce2.jpg",
+        "name": "Trencin-Zlatovce",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [17.92803, 48.85247],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91115,
+        "description": "Adamovské Kochanovce.Spoločný pomník občanom obcí: ADAMOVSKÉ KOCHANOVCE, CHOCHOLNÁ - VELČICE, IVANOVCE, MELČICE, ŠTVRTOK NAD VÁHOM, ZEMIANSKE LIESKOVÉ padlých v 2. svetovej vojne ",
+        "imgPath": "91115_adkoch.jpg",
+        "name": "Adamovske_Kochanovce",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.19278, 48.80539],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91116,
+        "description": "Bobot. Pamätná tabuľa venovaná padlým hrdinom v SNP a obetiam druhej svetovej vojny ",
+        "imgPath": "91116_bobot.jpg",
+        "name": "Bobot",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.29392, 48.91033],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91117,
+        "description": "Dolná Poruba. Na miestnom cintoríne sú v spoločnom hrobe pochovaní štyria neznámi vojaci Sovietskej armády, ktorí padli v apríli 1945 v obecnom chotári počas oslobodzovacích bojov.",
+        "imgPath": "91117_dporuba.jpg",
+        "name": "Dolna_Poruba",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.031017, 48.957089],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91118,
+        "description": "Dolná Súča.Na obchodnej budove sú umiestnené dve pamätné tabule padlým občanom, partizánom príslušníkom 2. Stalinovej partizánskej brigády a obetiam fašizmu.\n\n\n",
+        "imgPath": "91118_dsuca.jpg",
+        "name": "Dolna_Suca",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.00396, 48.995448],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91119,
+        "description": "Dolná Súča – Repákovci. Pamätná tabuľa z tmavej žuly na dome, venovaná pamiatke zastrelených partizánov a občanov v osade Repákovci ",
+        "imgPath": "91119_dsucarepakovci.jpg",
+        "name": "Dolna_Suca_Repakovci",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [17.95153, 48.90267],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91120,
+        "description": "Drietoma- pri kríži. V miestnej časti pri Kríži - pod vrchom Nešporovský sa nachádza pomník popraveným partizánom.",
+        "imgPath": "91120_drietoma1.jpg",
+        "name": "Drietoma_1",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [17.956907, 48.894641],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91121,
+        "description": "Drietoma - zdravotné stredisko. Na priečelí budovy sa nachádzajú dve pamätné tabule venovaná pamiatke padlých občanom v 2. svetovej vojne a kpt. Jozefovi Jablonkovi, vojenskému výsadkárovi Červenej armády.",
+        "imgPath": "91121_drietoma2.jpg",
+        "name": "Drietoma_2",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.10644, 48.76261],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91122,
+        "description": "Na budove obecného úradu sú umiestnené dve pamätná tabule venované obetiam 2. svetovej vojny z obce a tabuľa americkému letcovi, ktorý zahynul v katastri obce.",
+        "imgPath": "91122_dubodiel.jpg",
+        "name": "Dubodiel",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [17.961965, 48.95729],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91123,
+        "description": "Horná Súča - Dúbrava. Pomník - pamätný kríž, venovaný vojakom padlým v 2. svetovej vojne, stojí v osade pred kaplnkou. ",
+        "imgPath": "91123_hsucadubrava.jpg",
+        "name": "Horna_Suca_Dubrava",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [17.97697, 48.97307],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91124,
+        "description": "Horná Súča obec. Pamätná tabuľa z tmavej žuly venovaná občanom padlým v 2. svetovej vojne",
+        "imgPath": "91124_hsucaobec.jpg",
+        "name": "Horna_Suca_obec",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [17.982043, 48994993.0],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91125,
+        "description": "Horná Súča - Krásny dub. Pamätník na fašistické represálie. Dňa 14. apríla 1945 vypálili nemeckí fašisti za pomoc partizánom sedem domov",
+        "imgPath": "91125_hsucakrasny.jpg",
+        "name": "Horna_Suca_Krasnydub",
+        "type": "Vypalene obce"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.197485, 48.782374],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91126,
+        "description": "Horňany. Pamätná tabuľa venovaná pamiatke padlému partizánovi Štefanovi Pichlerovi",
+        "imgPath": "91126_hornany.jpg",
+        "name": "Hornany",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.10067, 48.99231],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91127,
+        "description": "Horné Srnie.Pomník padlým v SNP stojí na miestnom cintoríne vľavo pred vchodom do kostola.",
+        "imgPath": "91127_hsrnie.jpg",
+        "name": "Horne_Srnie",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.03886, 48.93353],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91128,
+        "description": "Pamätná tabuľa z čiernej žuly venovaná padlým v 2. svetovej vojne, je osadená na budove bývalej školy",
+        "imgPath": "91128_hrabovka.jpg",
+        "name": "Hrabovka",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [17.94497, 48.8665],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91129,
+        "description": "Chocholná-Velčice- Pomník venovaný vojakom oslobodzovacích armád, padlým pri oslobodzovaní obce stojí na starom cintoríne v centre obce",
+        "imgPath": "91129_chochol.jpg",
+        "name": "Chocholna_Velcice",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [17.96972, 48.87697],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91130,
+        "description": "Kostolná-Záriečie - pamätná tabuľa venovaná pamiatke partizána Jaroslava Kroupu sa nachádza na priečelí obecného úradu ",
+        "imgPath": "91130_kostolna.jpg",
+        "name": "Kostolna_Zariecie",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [17.941474, 48.822243],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91131,
+        "description": "Krivosúd-Bodovka - Pamätná tabuľa venovaná Jánovi Valkovi, pôvodne osadená na dome č. 62., je v súčasnosti uložená u majiteľa domu a jej kópia na obecnom úrade",
+        "imgPath": "91131_krivosud.jpg",
+        "name": "Krivosud_Bodovka",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [17.91108, 48.84008],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91132,
+        "description": "Melčice - Pamätná tabuľa venovaná pamiatke Juraja Staňáka a Ondreja Nováka je umiestnená na samostatnom pomníku v parčíku nachádzajúcom sa v strede obce. Pamätná tabuľa sovietskemu partizánovi Serouchovi je umiestnená ....",
+        "imgPath": "91132_melcice.jpg",
+        "name": "Melcice",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.06094, 48.83389],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91133,
+        "description": "Mníchova Lehota - pamätná tabuľa, venovaná padlým v 2. svetovej vojne je umiestnená na budove Obecného domu pri vchode do Kultúrneho strediska",
+        "imgPath": "91133_mnichova.jpg",
+        "name": "Mnichova_Lehota",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.18622, 48.83094],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91134,
+        "description": "Motešice - Pomník padlým v 2. svetovej vojne stojí v miestnom parčíku v strede obce",
+        "imgPath": "91134_motesice.jpg",
+        "name": "Motesice",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.15139, 48.81958],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91135,
+        "description": "Neporadza - Pamätná tabuľa venovaná pamiatke padlých v SNP, je umiestnená na priečelí kultúrneho domu",
+        "imgPath": "91135_neporadza.jpg",
+        "name": "Neporadza",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.226917, 48.901654],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91136,
+        "description": "Omšenie - Pomník venovaný pamiatke padlým v Slovenskom národnom povstaní stojí v parčíku miestnej školy",
+        "imgPath": "91136_omsenie.jpg",
+        "name": "Omsenie",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.21261, 48.89336],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91137,
+        "description": "Omšenie - Hrádok - Pomník postavený na pamiatku SNP sa nachádza na kopci Hrádok nad vodnou nádržou pri Trenčianskych Tepliciach ",
+        "imgPath": "91137_omseniehradok.jpg",
+        "name": "Omsenie_Hradok",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.09692, 48.91217],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91138,
+        "description": "Opatová nad Váhom - Na podstavci pamätníka padlým v 1. svetovej voje, ktorý stojí v strede obce, je umiestnená  pamätná tabuľa venovaná padlým v 2. svetovej vojne",
+        "imgPath": "91138_opatova.jpg",
+        "name": "Opatova",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [17.99042, 48.78569],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91139,
+        "description": "Selec 1 - Pamätník občanom Selca, ktorí zahynuli v nemeckých koncentračných táboroch v rokoch 1944 – 1945, stojí na voľnom priestranstve v ulici hneď vedľa bývalej školy",
+        "imgPath": "91139_seleckriz.jpg",
+        "name": "Selec_kriz",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [17.98992, 48.78553],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91140,
+        "description": "Selec 2 - Pamätná tabuľa  osadená na priečelí bývalej školy je venovaná občanom Selca.",
+        "imgPath": "91140_selecpam.jpg",
+        "name": "Selec_pamatnik",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [17.99006, 48.78564],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91141,
+        "description": "Selec 3 - Pamätný kríž stojí pred miestnym kostolom, je venovaný spomienke na občanov Selca, ktorých 30. novembra 1944 odvliekli Nemci do koncentračných táborov v Nemecku. ",
+        "imgPath": "91141_selecskola.jpg",
+        "name": "Selec_skola",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.07303, 48.86294],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91142,
+        "description": "Soblahov - Pomník padlým v SNP sa nachádza na volnom priestranstve v strede obce ",
+        "imgPath": "91142_soblahov.jpg",
+        "name": "Soblahov",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.16439, 48.78744],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91143,
+        "description": "Svinná - Dvojdielna pamätná tabuľa  venovaná príslušníkom Partizánskej brigády Jána Žižku  je upevnená na priečelí kultúrneho domu",
+        "imgPath": "91143_svinna.jpg",
+        "name": "Svinna",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.11153, 48.80131],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91144,
+        "description": "Trenčianske Jastrabie - Pamätná tabuľa padlým v 2. svetovej vojne je umiestnená na novej budove obecného úradu",
+        "imgPath": "91144_trjastrabie.jpg",
+        "name": "Trencianske_Jastrabie",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [17.97517, 48.83708],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91145,
+        "description": "Trenčianske Stankovce - Pamätná tabuľa venovaná pamiatke Pavla Hudeca je osadená na priečelí školy v bývalej obci Veľké Stankovce",
+        "imgPath": "91145_trstankovce.jpg",
+        "name": "Trencianske_Stankovce",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.11878, 48.93406],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91146,
+        "description": "Trenčianska Teplá 1 - Na čelnej strane pomníka padlým v 1. svetovej vojne v strede obce je osadená tabuľa s menami padlých v 2.svetovej vojne",
+        "imgPath": "91146_tepla1.jpg",
+        "name": "Trencianska_Tepla",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.11817, 48.93225],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91147,
+        "description": "Trenčianska Teplá 2 - náhrobník venovaný pamiatke vojakov Rumunskej armády sa nachádza na miestnom cintoríne ",
+        "imgPath": "91147_tepla2.jpg",
+        "name": "Trencianska_Tepla_rumuni",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.17461, 48.90881],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91148,
+        "description": "Trenčianske Teplice - park - Pomník venovaný padlým v SNP a osloboditeľom mesta je umiestnený pri vstupe do kúpeľného parku oproti kúpeľnej budovy Esplanade",
+        "imgPath": "91148_teplicepark.jpg",
+        "name": "Teplice_park",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.190104, 48.904345],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91149,
+        "description": "Trenčianske Teplice - Baračka - Pomník venovaný pamiatke Ondreja Rebru sa nachádza pri ceste v miestnej časti Baračka",
+        "imgPath": "91149_teplicebar.jpg",
+        "name": "Teplice_Baracka",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.20967, 48.91372],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91150,
+        "description": "Trenčianske Teplice - Kamenica - Pomník venovaný pamiatke amerického letca Rolanda W. Morina sa nachádza nad chatovou oblasťou miestnej časti Kamenica",
+        "imgPath": "91150_teplicekam.jpg",
+        "name": "Teplice_Kamenica",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.02133, 48.84989],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91151,
+        "description": "Trenčianska Turná 1 - Pomník padlým v prvej a druhej svetovej vojne je umiestnený na priestranstve pred miestnou školou ",
+        "imgPath": "91151_trturnazs.jpg",
+        "name": "Trencianska_Turna_zs",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.02228, 48.85025],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91152,
+        "description": "Trenčianska Turná 2 - Tri pamätné tabule venované pamiatke občanom krotí zahynuli v 2. svetovej vojne sú umiestnené na priečelí kultúrneho domu",
+        "imgPath": "91152_trturnakd.jpg",
+        "name": "Trencianska_Turna_kd",
+        "type": "Pamatnik"
       },
       "type": "Feature"
     }
