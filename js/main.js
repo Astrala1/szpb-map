@@ -9,7 +9,7 @@ let markerArr = []
 const icons = {
   "Bunker": {
     img:"bunker_icon.png",
-    sType:"Bunker, Military Bunker"
+    sType:"Bunker, Partisan Bunker"
   },
   "Masovy hrob": {
     img:"hroby_icon.png",
@@ -21,7 +21,7 @@ const icons = {
   },
   "Pamatnik": {
     img:"pamatnik_icon.png",
-    sType:"Památník, Memorial"
+    sType:"Pamätník, Memorial"
   }
 };
 
