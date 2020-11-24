@@ -62,10 +62,15 @@ function createTypeToggles() {
   types = Object.keys(icons)
   let toggleDiv = document.getElementById("legend");
   let table = document.createElement('div')
-  table.setAttribute('class','table')
+  table.setAttribute('class','container-fluid')
   table.setAttribute('id','legend_table')
-  let toggleDivUL = document.createElement("ul");
+  
+  let toggleDivUL = document.createElement("div");
+  toggleDivUL.setAttribute('class','row')
   for (let i = 0; i < types.length; i++) {
+    let col_leg = document.createElement("div");
+    col_leg.setAttribute('class','col')
+
     let li = document.createElement('li');
     li.className = 'markerSelect';
 
@@ -90,8 +95,8 @@ function createTypeToggles() {
     //TODO: figure out how to get the li close to text responsively.
     li.setAttribute('style', 'background:url("' + map_image_pth + icons[types[i]].img + '") no-repeat 7px 50% transparent;')
 
-
-    toggleDivUL.appendChild(li);
+    col_leg.appendChild(li)
+    toggleDivUL.appendChild(col_leg);
 
   }
   table.appendChild(toggleDivUL)

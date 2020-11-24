@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <title>Pamatne Miesta Bojov Proti Fasizmu</title>
+  <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+  <link rel="stylesheet" type="text/css" href="css/main.css">
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-131810603-1"></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'UA-131810603-1');
+  </script>
+
+
+</head>
+
+<body>
+  <input id="legend_button" type="button" class="w3-button w3-red" value="Legenda" onclick="openLegend()">
+  <div class="container">
+    <div id="mapcontain" class="map_container">
+      <div id="map"></div>
+      <div id="legend"></div>
+    </div>
+    <div class="footer">
+      <p>SZPB 2019 | <a href="mailto:oblvtn@szpb.sk">oblvtn@szpb.sk</a></p>
+    </div>
+  </div>
+  <script src="js/main.js"></script>
+  <!-- Site-locked -->
+   <!-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCOacnzA8PdQtPVc_FyHWrB4oSHPFJ0BE0&callback=initMap"
+    async defer></script> -->
+
+  <!-- local -->
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyALedktEB2_azjsBJRq-Z_D9jSChOu3bx0&callback=initMap"
+    async defer></script>
+</body>
+
+</html>

@@ -1,0 +1,1650 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+      "geometry": {
+        "coordinates": [
+          18.405189514160156,
+          48.731681424318666
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 70592,
+        "description": "Dolné Vestenice-Hradištnica. Pamätník a partizánsky bunker ",
+        "imgPath": "70592_DV_Hradistnica.jpg",
+        "name": "Dolne Vestenice-Hradistnica",
+        "type": "Bunker"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.368003368377686,
+          48.73963488431628
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 75406,
+        "description": "Uhrovec - Jankov vŕšok. Bol základňou partizánov hlavne 6. práporu PBJZ počas SNP. 13.februára 1945 nemeckí fašisti a príslušníci POHG bunkre objavili a upálili v nich 7 alebo 8 partizánov.",
+        "imgPath": "75406_bunker3_zmens.jpg",
+        "name": "Jankov vrsok",
+        "type": "Bunker"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.33171844482422,
+          48.72263672665399
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 59383,
+        "description": "Bunkre obyvateľov Miezgoviec. \nNa začiatku septembra 1944 si občania vybudovali 5 bunkrov v lese pod Madáčom a 6 v Panskej dolinke, pre úkryt pred fašistickými represáliami. Obývali ich hlavne tie rodiny s malými deťmi, ktoré mali mužov partizánov v októbri a novembri 1944. Niektoré slúžili ako sklady obilia. Vnútro bunkrov bolo obvykle vyložené tvrdým papierom, dvere boli z dosiek a niekde aj na zemi boli dosky.  Spávalo sa na kabátoch a dekách. Piecka bola len v niektorých bunkroch, tam varili a aj zohrievali vodu na pranie plienok a umývanie malých detí. Pre potraviny chodili staršie deti do dediny. Tu pod Madáčom bývali rodiny Holičkových Jána a Pavla, Hradiského Jozefa, Aujeského Mikuláša, Šagáta Mihula. Jeden bunker slúžil pre ranených partizánov. Holičkovým sa tu narodila dcéra.\n",
+        "imgPath": "59383_Miezgovce_bunker.jpg",
+        "name": "Miezgovce",
+        "type": "Bunker"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.265956044197083,
+          48.72250932492841
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 33424,
+        "description": "Bánovce nad Bebravou. Spoločný hrob partizánov na cintoríne, ktorí sem boli sústrední, poprípade boli po úmrtí sem pochovaní medzi spolubojovníkov.",
+        "imgPath": "33424_bce_cintorin_A6.jpg",
+        "name": "Banovce-Cintorin",
+        "type": "Masovy hrob"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.28373,
+          48.72063
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 88175,
+        "description": "Bánovce nad Bebravou. Po protipartizánskej akcii 22.až  24.novembra 1944 zhromaždili zajatcov v Bánovciach, kde ich podrobili tvrdému výsluchu. Väčšiu časť ľudí prepustili a ostatných dňa 29. novembra dali Nemci na nákladných autách odviezť do blízkeho lesíka Cibislávka, kde ich postrieľali a zakopali do masového hrobu. 14.decembra 1944 postrieľali ďalších zajatcov. V dvoch masových hroboch na Cibislávke, pri ceste smerom na Miezgovce bolo popravených 35 ľudí, z čoho bolo 10 partizánov. Hroby boli len čiastočne zahádzané zeminou. Pri exhumácii 16. apríla 1945 identifikačná komisia skonštatovala, že obete boli vystavené obrovskému mučeniu.",
+        "imgPath": "88175_Bce_cibislavka_A4.jpg",
+        "name": "Cibislavka",
+        "type": "Masovy hrob"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.351502418518066,
+          48.799768691075265
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 16464,
+        "description": "Kšinná. 2 hroby. Pri prepade obce 1. novembra 1944 fašisti zastrelili desať partizánov. Pri prečesávaní blízkych lesov v novembri jednotkami SS, príslušníkmi Sonderkommanda ZbV 15, príslušníkmi Pohotovostných oddielov Hlinkovej gardy títo v lese Uhliarka zavraždili 9 osôb, z čoho boli 3 muži, 3 ženy a 3 deti. Na mieste zvanom Pavle háj zavraždili 32 zo zajatých židovských občanov. Vyvražďovanie židovských utečencov pokračovalo aj v decembri 1944 pri osade Jarok a pri Solnisku príslušníci komanda zavraždili ďalších 11 židov. Dňa 7. februára 1945 príslušníci slovenského oddielu Abwehrgruppe 218 - smutne známy Edelweis pod velením kpt. Ladislava Nižňanského v lese Kameň pri obci Kšinná prepadli tri bunkre, v ktorých sa ukrývali židovskí občania. Z bunkrov vyhnali 18 osôb, ktoré sa tu skrývali, obrali ich o všetky cennosti a potom na príkaz Nižňanského neďaleko bunkrov povraždili. Medzi obeťami boli aj dve malé deti. ",
+        "imgPath": "16464_ksinna_cintorin_zid_part_hrob.jpg",
+        "name": "Ksinna",
+        "type": "Masovy hrob"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.273117542266842,
+          48.71164714136787
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 39146,
+        "description": "Bánovce nad Bebravou. Marec 1945 - 8 osôb, z toho 3 ženy, zavraždili príslušníci Einsatzkommanda 13 v lese Salaštek pri Bánovciach nad Bebravou v rámci akcie proti antifašistom v meste a blízkom okolí.",
+        "imgPath": "39146_bce_salastek_A5.jpg",
+        "name": "Salastek",
+        "type": "Masovy hrob"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.047962188720703,
+          48.885658073358066
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 78474,
+        "description": "Trenčín, les Brezina - Dušova dolina. Od 25. októbra 1944 do 3. apríla 1945 na rozkazy veliteľov Einsatzkommanda 13 - dr. Hansa Jaskulského a Karlia Schnitza - tu fašisti popravili 69 ľudí. Veliteľom exekutívnej jednotky bol SS-hauptsturmfuhrer Paul Streit a priamo na vraždení sa zúčastňoval aj SS-scharfuhrer Maximilian Bayer i SS-scharfuhrer Joseph Dranger. Za celú akciu bol zodpovedný Joseph Juritsch. Pri exhumácii koncom mája 1945 bolo na mieste vrážd odhalených 6 masových a jeden samostatný hrob, kde okrem Slovákov bola zavraždená sovietska partizánka a partizán, americký letec, partizáni českej, maďarskej, francúzskej a rakúskej národnosti. Niekoľko obetí sa nepodarilo identifikovať.",
+        "imgPath": "78474_bre22c.jpg",
+        "name": "Trencin-Dusova dolina",
+        "type": "Masovy hrob"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.37764859199524,
+          48.76379888691892
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 26088,
+        "description": "Uhrovské Podhradie. Po protipartizánskej akcii 22. až 26.novembra 1944 pozbierali občania padlých partizánov a pochovali do spoločného hrobu.Vedľa hrobu su hroby partizánov ktorí zomreli v partizánskej nemocnici.",
+        "imgPath": "26088_uhrpodhr_cint.jpg",
+        "name": "UhrovskePodhradie",
+        "type": "Masovy hrob"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.125574588775635,
+          48.70966840706775
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 35739,
+        "description": "Zlatníky. V rámci protipartizánskej výpravy do Panskej Javoriny v prestrojení za partizánov a povstalcov príslušníci jednotky Jozef zajali 22-ročného Antona Košinára, 20-ročného Pavla Košinára, 27-ročného Štefana Lacku, 17-ročného Tibora Bauera a ďalších dvoch partizánov. ",
+        "imgPath": "35739_zlatnikycintorin.jpg",
+        "name": "Zlatniky-cintorin",
+        "type": "Masovy hrob"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.257979154586792,
+          48.71873313280933
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 39990,
+        "description": "Bánovce nad Bebravou. Pamätné tabule na fasáde budovy Mestského úradu umiestnené v roku 1951 venované Okresnému revolučnému národnému výboru a pamiatke padlých občanov v Povstaní.    ",
+        "imgPath": "39990_banovce_msu_tabule.jpg",
+        "name": "Banovce-MsU",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.266106247901917,
+          48.722668577034945
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 23120,
+        "description": "Bánovce nad Bebravou. Na pamiatku viac ako 800 občanov okresu Bánovce nad Bebravou odvlečených v rokoch 1942 až 1945 do koncentračných táborov príslušníkmi Hlinkovej gardy a nemeckými fašistami, kde prevažná väčšina z nich zahynula. \n",
+        "imgPath": "23120_01_5_bce_holokaust.jpg",
+        "name": "Banovce-holokaust",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.3332993,
+          48.8665028
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 45664,
+        "description": "Čierna Lehota. Pamätná tabuľa pamiatke občanov popravených za účasť v SNP na budove Obecného úradu ",
+        "imgPath": "45664_ciernalehotaMNV.jpg",
+        "name": "Cierna Lehota-obec",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.338230848312374,
+          48.873112897238954
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 27580,
+        "description": "Čierna Lehota. Pamiatke padlých partizánov na kopci za obcou na tzv. starom cintoríne",
+        "imgPath": "27580_ciernalehotakopec.jpg",
+        "name": "Cierna Lehota-stary cintorin",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.142794370651245,
+          48.72690449797234
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 43730,
+        "description": "Cimenná. V rámci protipartizánskej operácie v Inovci okolo 7.00 hodiny ráno obsadili obec zhromaždili všetkých chlapov na dvor miestneho komisára, kde ich za pomoci POHG a príslušníkov nemeckej menšiny z Držkoviec vyšetrovali. Pri vyšetrovaní ich zversky týrali, vyrabovali celú obec a podpálili 7 domov a zastrelili 6 občanov.",
+        "imgPath": "43730_cimenna1.jpg",
+        "name": "Cimenna",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.213475942611694,
+          48.763339200246975
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 45969,
+        "description": "Dežerice. Pamätná tabuľa pamiatke padlých  v SNP na budove Obecného úradu\n",
+        "imgPath": "45969_DezericeOCU.jpg",
+        "name": "Dezerice",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.39910626411438,
+          48.70474070193049
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 36279,
+        "description": "Dolné Vestenice. Po prestrelke s partizánmi 21.januára fašisti obec obsadili, vyrabovali, vypálili dom Jozefa Malíka a hájovňu Hradištnica. Z obce odvliekli do koncentračných táborov 52 osôb, z ktorých sa 10 domov nevrátilo.",
+        "imgPath": "36279_DV_pamatnik_02.jpg",
+        "name": "Dolne Vestenice",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.303289711475372,
+          48.73907415000971
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 10585,
+        "description": "Pomník pri ceste do Uhrovca na mieste, kde fašisti prepadli partizánsku hliadku.\nNa tomto mieste boli nemeckými fašistami zavraždení partizáni z obce Uhrovec \n",
+        "imgPath": "10585_HorneNastice3a.jpg",
+        "name": "Horne Nastice",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.365964889526367,
+          48.739436770701765
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 70482,
+        "description": "Uhrovec - Jankov vŕšok. Pamätník pamiatke činnosti partizánskej brigády Jana Žižku z Trocnova na Jankovom vŕšku nad Uhrovcom.\nPamätník bol vybudovaný v rokoch 1947-1951.",
+        "imgPath": "70482_mohyla1a.jpg",
+        "name": "Jankov vrsok",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.231162428855896,
+          48.83906526222183
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 47324,
+        "description": "Spoločný hrob na miestnom cintoríne padlým partizánom 4.X.1944 v boji na Letnom majeri pri Motešiciach.",
+        "imgPath": "47324_KrasnaVes.jpg",
+        "name": "Krasna Ves",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.352360725402832,
+          48.808227181346915
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 37427,
+        "description": "Kšinná. Pomník padlým v SNP z obce umiestnený v strede obce pri ceste",
+        "imgPath": "37427_ksinna_pam.jpg",
+        "name": "Ksinna",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.358502984046936,
+          48.82558840794886
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 49154,
+        "description": "Kšinná - časť Závada pod Čiernym vrchom. Pamätník padlým občanom pri budove bývalého Miestneho národ-ného výboru.",
+        "imgPath": "49154_ksinna_zavada.jpg",
+        "name": "Ksinna-Zavada",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.313264846801758,
+          48.72027266429414
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 57492,
+        "description": "Miezgovce. Pamätník padlým v SNP.  Fašisti obec obsadili 2. februára 1945 a odvliekli 11 obyvateľov z ktorých 3 zavraždili a ostatných prevažne mladých mužov odvliekli do koncentračného tábora Mauthausen.",
+        "imgPath": "57492_Miezgovce_pam.jpg",
+        "name": "Miezgovce",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.390276432037354,
+          48.77881771792104
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 73085,
+        "description": "Omastiná. Pomník padlým občanom v SNP v strede obce\n",
+        "imgPath": "73085_omastina.jpg",
+        "name": "Omastina",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.388956785202026,
+          48.77686637236674
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 93540,
+        "description": "Omastiná.Tabuľa pamiatke občanov padlých v SNP, ktorí padli v roku 1944, na budove bývalej školy",
+        "imgPath": "93540_omastina_skola.jpg",
+        "name": "Omastina-skola",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.239697217941284,
+          48.768989518246876
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 68726,
+        "description": "Podlužany. Pomník pamiatke padlým v SNP a I. svetovej vojne v strede obce",
+        "imgPath": "68726_podluzany.jpg",
+        "name": "Podluzany",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.24281930923462,
+          48.77159877466575
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 59032,
+        "description": "Podlužany. Pomník bojovníkovi v SNP na miestnom ",
+        "imgPath": "59032_podluzanykois.jpg",
+        "name": "Podluzany-cintorin",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.257614374160767,
+          48.66686765476576
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 54226,
+        "description": "Rybany.Pamätník venovaný bojovníkom za slobodu v SNP na námestí v strede obce\n",
+        "imgPath": "54226_rybany.jpg",
+        "name": "Rybany",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.289082050323486,
+          48.85010994186408
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 44223,
+        "description": "Šípkov. Pomník pamiatke občanov padlých v prvej svetovej vojne a SNP z obce pri ceste",
+        "imgPath": "44223_sipkovpriceste1.jpg",
+        "name": "Sipkov",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.28767,
+          48.86269
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 94475,
+        "description": "Pomník pamiatke zavraždených občanov a príslušníkov SNP nad obcou na salaši Lupenica. Členovia protipartizánskej jednotky Jozef sa 7. novembra 1944 v prestrojení dostali do obce Šipkov a vydávali sa za partizánov a príslušníkov 1. československej armády na Slovensku. Jednotku viedol Werner Pawlofski, ktorý sa predstavoval ako nadporučík Jelínek. Podarilo sa mu získať si dôveru bratov Alojza, Jána a Františka Hollých, ktorí príslušníkom jednotky Jozef poskytli informácie o partizánoch a dali im potraviny. Jednotku nakoniec odviedli na salaš Lupenica. Tu bratov Hollých pri vypočúvaní mučili a nakoniec ranou do tyla zlikvidovali. Zavraždili aj troch zadržaných sovietskych partizánov. Aby zahladili stopy vraždenia, zlikvidovali aj náhodných svedkov, pastierov zo Šípkova. Kolibu salaša, kam mŕtvych nahádzali, nakoniec podmínovali. Časť jednotky sa potom stiahla späť do Šípkova. Miestnych obyvateľov vyzvali, aby odstránili telá zavraždených zo salaša Lupenica. Dňa 11. novembra 1944 pri otváraní koliby vybuchla mína a pri jej explózii zahynuli Šipkovčania:",
+        "imgPath": "94475_sipkov_lupenice.jpg",
+        "name": "Sipkov-Lupenice",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.292118310928345,
+          48.8507382697713
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 83282,
+        "description": "Šípkov. Pamätník v obci pri potoku pri OÚ\nOdhalený v roku  1969.  Nápis: \nNa tomto mieste boli zaživa upálení 13. novembra 1944 nemeckými fašistami účastníci Slovenského národného povsta-nia.",
+        "imgPath": "83282_sipkov_OU_M1.jpg",
+        "name": "Sipkov-obec",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.263574242591858,
+          48.83656367557092
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 90196,
+        "description": "Slatina nad Bebravou. Pamätník padlým hrdinom v SNP v obci pri ceste na Trebichavu\n",
+        "imgPath": "90196_slatina_N1.jpg",
+        "name": "Slatina",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.263590335845947,
+          48.83793011876552
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 99918,
+        "description": "Slatina nad Bebravou. Pomník neznámemu bojovníkovi na miestnom cintoríne ktorý padol v boji medzi Slatinou a Slatinkou ",
+        "imgPath": "99918_slatina_N2.jpg",
+        "name": "Slatina-cintorin",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.23704183101654,
+          48.81065776176905
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 26674,
+        "description": "Timoradza. Pamätná tabuľa pamiatke padlého bojovníka SNP na budove Obecného úradu. \n",
+        "imgPath": "26674_timoradza_O1.jpg",
+        "name": "Timoradza",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.30118417739868,
+          48.82143144506117
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 79534,
+        "description": "Trebichava. Pamätná tabuľa padlým bojovníkom v SNP na fasáde budovy  Obecného úradu. \nNašim hrdinom a osloboditeľom\n",
+        "imgPath": "79534_trebichava_P1.jpg",
+        "name": "Trebichava",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.046910762786865,
+          48.89004602537896
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 22182,
+        "description": "Trenčín. Cintorín a pamätník umučených na Brezine. Nad Čerešňovým sadom na trenčianskej Brezine je Cintorín hrdinov. Pochované sú tam pozostatky 56 umučených a popravených vo Vápenici a Dušovej doline. Ostatných pochovali príbuzní na cintorínoch rodných obcí. Hrobovú časť tvoria tri oblúkové pásy hrobov s jednotlivými náhrobkami, kde sú mená obetí, ich vek v čase smrti a bydlisko. ",
+        "imgPath": "22182_brezina.jpg",
+        "name": "Trencin-Brezina",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.35265308618545,
+          48.70756569536191
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 58203,
+        "description": "Uhrovec-Látkovce. Pomník sovietskemu partizánovi v Látkovciach, zavraždenému 4.februára 1945\n",
+        "imgPath": "58203_Uhrovec_Latkovce.jpg",
+        "name": "Uhrovec-Latkovce",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.335033655166626,
+          48.73901223889842
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 79183,
+        "description": "Pomník pri ceste na Jankov vŕšok  v časti Závodská\nNápis: Na tomto mieste bolo dňa 28.-29.VIII. 1944 vystrojená prvá partizánska jednotka bánovskej oblasti. \n",
+        "imgPath": "79183_uhrovec_T7.jpg",
+        "name": "Uhrovec-Zavodska",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.337340354919434,
+          48.743936587384674
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 38653,
+        "description": "Pamätná tabuľa padlým v SNP z evanjelickej svätej cirkvi v Uhrovci na budove evanjelického kostola.",
+        "imgPath": "38653_uhrovec_T6b.jpg",
+        "name": "Uhrovec-kostol",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.33879142999649,
+          48.7437614841275
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 84963,
+        "description": "Uhrovec. Pamätná tabuľa pamiatke občanov padlých v SNP na budove bývalého Miestneho národného výboru teraz Múzea",
+        "imgPath": "84963_uhrovec_T6a.jpg",
+        "name": "Uhrovec-muzeum",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.379713892936707,
+          48.763409921547286
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 31880,
+        "description": "Uhrovské Podhradie. Pamätník venovaný padlým občanom v SNP pri Obecnom úrade\n",
+        "imgPath": "31880_uhrpodh_U1.jpg",
+        "name": "UhrovskePodhradie",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.37839424610138,
+          48.76406408885423
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 62170,
+        "description": "Uhrovské Podhradie.V obci sa počas SNP nachádzala partizánska nemocnica aj dielňa, ktorá pre partizánov vyrábala súčasti odevov a rôzne doplnky. ",
+        "imgPath": "62170_uhrpodh_U2.jpg",
+        "name": "UhrovskePodhradie-nemocnica",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.347779,
+          48.766775
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 97282,
+        "description": "Pamätná tabuľa na fasáde domu \nč. 99 ( Žitná ) Nápis : \nV tomto dome sa schádzal Revolučný okresný národný výbor v jeseni 1944 v čase Slovenského národného povstania\n",
+        "imgPath": "97282_zitna_V2.jpg",
+        "name": "Zitna-RONV",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.343747,
+          48.767053
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 25524,
+        "description": "Žitná - Radiša. Pamätník padlým občanom v strede obce na križovatke.\n",
+        "imgPath": "25524_zitna_V1.jpg",
+        "name": "ZitnaRadisa",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.123348355293274,
+          48.71047548519503
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 49976,
+        "description": "Zlatníky. Pomník občanom padlým v SNP v strede obce \n",
+        "imgPath": "49976_zlatniky_Z1.jpg",
+        "name": "Zlatniky-obec",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.516823053359985,
+          48.9545087186088
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 63291,
+        "description": "Čičmany. Partizánske stredisko Čičmany fašisti napadli v predvečer 6. apríla 1945. V priebehu dňa sa partizánom podarilo zlikvidovať tri fašistické hliadky, ktoré sa pokúšali dostať do Čičmian. To bol dôvod, aby obec prepadli po zuby ozbrojení príslušníci SS na dvadsiatich nákladných autách a dvoch tankoch. Tanky začali streľbu do domov, potom fašisti obec obkľúčili, tri dni drancovali, terorizovali obyvateľstvo a nakoniec vypálili 47 drevených domov úplne a 85 čiastočne. Pritom troch obyvateľov zavraždili a 65 občanov odvliekli do koncentračného tábora v Mülbergu.\n",
+        "imgPath": " ",
+        "name": "Cicmany",
+        "type": "Vypalene obce"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.140230178833008,
+          48.72701065682139
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 55392,
+        "description": "Cimenná. V rámci protipartizánskej operácie v Inovci okolo 7.00 hodiny ráno obsadili obec zhromaždili všetkých chlapov na dvor miestneho komisára, kde ich za pomoci POHG a príslušníkov nemeckej menšiny z Držkoviec vyšetrovali. Pri vyšetrovaní ich zversky týrali, vyrabovali celú obec a podpálili 7 domov a zastrelili 6 občanov.",
+        "imgPath": " ",
+        "name": "Cimenna",
+        "type": "Vypalene obce"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.39860200881958,
+          48.9534096589732
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 49437,
+        "description": "Košecké Rovné. 20. októbra 1944 asi 200 Nemcov zo Zliechova a z Košeckého Rovného obkľúčili osadu Horná Stredná a zapálilo ju bez toho, že by boli vyšetrovali, či sú tam partizáni, alebo či má obyvateľstvo dajakú vinu na prechovávaní partizánov . Obyvateľstvo osady vyvliekli von /bolo 6 hodín ráno/. Obyvatelia sa museli pozerať ako im horia majetky, ktorý celý život zhromažďovali, avšak hasiť nesmeli, ale naopak Nemci ich ešte bili a nadávali. Z 8 domov úplne podľahlo požiaru 6 domov, v 2 ostatných zhorelo zariadenie.",
+        "imgPath": " ",
+        "name": "Kosecke Rovne-Horna Stredna",
+        "type": "Vypalene obce"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.358352780342102,
+          48.826637306721196
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 75624,
+        "description": "Kšinná-Závada-Šebeňov laz. Laz bol počas SNP aj sídlom štábu PBJZ. V polovici februára nemeckí fašisti laz vypálili.",
+        "imgPath": " ",
+        "name": "Ksinna-Zavada-Sebenov laz",
+        "type": "Vypalene obce"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.31144094467163,
+          48.720952166650626
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 98039,
+        "description": "Miezgovce.Za pomoc partizánom fašisti obec 29.októbra 1944 za asistencie príslušníkov POHG z Bánoviec obsadili. Obyvateľov vyhnali z domov, domy vydrancovali a podpálili. Obyvateľov aj s ulúpeným majetkom odvliekli do Bánoviec nad Bebravou a mužov potom eskortovali do Nitry. Úplne zhorelo 34 domov, 17 bolo čiastočne vypálených, zhorela i škola a 12 hospodárskych stavísk.",
+        "imgPath": "98039_Miezgovce_skola.jpg",
+        "name": "Miezgovce",
+        "type": "Vypalene obce"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.389611244201657,
+          48.77717746152309
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 25370,
+        "description": "Sídlom štábu partizánskej brigády Jana Žižku z Trocnova bola určitý čas Omastiná. Sonderkommando ZbV 15 za asistencie iných jednotiek 11. novembra 1944 obec obsadilo. Fašisti ju vyrabovali a podpálili, pričom zhorelo 7 domov a 7 hospodárskych stavísk",
+        "imgPath": " ",
+        "name": "Omastina",
+        "type": "Vypalene obce"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.335731029510498,
+          48.74252159411532
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 24600,
+        "description": "Uhrovec. Za pomoc partizánom fašisti obec 4. novembra 1944 za asistencie príslušníkov POHG obsadili. Obyvateľov vyhnali z domov, domy vydrancovali a podpálili. Na vlastnom dvore zastrelili 70-ročného Michala Adamca, obyvateľov odvliekli do Bánoviec nad Bebravou a časť potom eskortovali do Nitry a neskôr do Viedne. Vypálili 35 domov a 18 hospodárskych stavísk, čiastočne zničili 5 domov a 3 hospodárske staviská.",
+        "imgPath": " ",
+        "name": "Uhrovec",
+        "type": "Vypalene obce"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.348809480667114,
+          48.76703071904645
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 94273,
+        "description": "Žitná Radiša. 22. novembra nacisti vypálili obec pričom zhoreli 3 domy a hospodárske stavisko. Dospelých obyvateľov osady sústredili v miestnej škole a kruto ich vypočúvali. Štyridsať mužov odvliekli do Bánoviec nad Bebravou, kde ich dva týždne väznili a vypočúvali",
+        "imgPath": " ",
+        "name": "Zitna",
+        "type": "Vypalene obce"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.026762008666992,
+          48.71061707651417
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 48547,
+        "description": "Zlatníky. Dňa 30. novembra 1944 za pomoc partizánom fašisti obec prepadli, vypálili päť domov a staviská na polesiach Stará Huta, Stará Hora, Javorina i časť Kulháňa. Do väzenia v Trenčíne a odtiaľ do koncentračného tábora Oranienburg odvliekli 42 mužov. ",
+        "imgPath": " ",
+        "name": "Zlatniky Biela Bukovina",
+        "type": "Vypalene obce"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.08572769165039,
+          48.70710549421217
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 80144,
+        "description": "Zlatníky. Dňa 30. novembra 1944 za pomoc partizánom fašisti obec prepadli, vypálili päť domov a staviská na polesiach Stará Huta, Stará Hora, Javorina i časť Kulháňa. Do väzenia v Trenčíne a odtiaľ do koncentračného tábora Oranienburg odvliekli 42 mužov. ",
+        "imgPath": " ",
+        "name": "Zlatniky-Kulhan",
+        "type": "Vypalene obce"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.096027374267578,
+          48.71922508017661
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 43038,
+        "description": "Zlatníky. Dňa 30. novembra 1944 za pomoc partizánom fašisti obec prepadli, vypálili päť domov a staviská na polesiach Stará Huta, Stará Hora, Javorina i časť Kulháňa. Do väzenia v Trenčíne a odtiaľ do koncentračného tábora Oranienburg odvliekli 42 mužov. ",
+        "imgPath": " ",
+        "name": "Zlatniky-Stara Hora",
+        "type": "Vypalene obce"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.431046009063717,
+          48.950499852134286
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 82173,
+        "description": "Zliechov. 9. apríla večer asi o 22. hodine, sa začal boj o oslobodenie Zliechova. Požiar, ktorý počas bojov vypukol, zničil 30 obytných a 35 hospodárskych stavieb. Zhorelo vtedy 20 kusov dobytka a 60 oviec. Ľudia v pivniciach od veľkej horúčavy omdlievali, no otvoriť nemohli, lebo horiace trámy padali a oni museli ostať vo vnútri a čakať, či a kedy sa tá hrôza skonči. Zúrivá streľba trvala viac ako pol dňa. Ranených bolo 9 osôb, zabitých 10 mužov a jedna žena. Takmer všetky domy v obci boli poškodené. Úplne zničený bol kostol a fara. V horách zostalo veľa vojnových zbraní a mín.",
+        "imgPath": " ",
+        "name": "Zliechov",
+        "type": "Vypalene obce"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [18.034832, 48.87544],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91101,
+        "description": "Trenčín - pamätník oslobodenia mesta. Pri cintoríne na Soblahovskej ulici v parčíku je pamätník venovaný pamiatke oslobodenia mesta v roku 1945. ",
+        "imgPath": "91101_tndelo.jpg",
+        "name": "Trencin-Soblahovska",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.038697, 48.892386],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91102,
+        "description": "Trenčín - PK OS SR. Na priečelí budovy Posádkového klubu v Trenčíne je osadená pamätná tabuľa venovaná osloboditeľom Trenčianskeho okresu. \nTU POLOŽILO SVOJE ŽIVOTY 1381 VOJAKOV 1. RUMUNSKEJ ARMÁDY A 1255 VOJAKOV 40. SOVIETSKEJ ARMÁDY 2. UKRAJINSKÉHO FRONTU.",
+        "imgPath": "91102_tn_oda.jpg",
+        "name": "Trencin-ODA",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.078453, 48.893439],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91103,
+        "description": "Trenčín - Kubranská ulica. Na Kubranskej ulici pred materskou školou stojí pomník padlým v 2. svetovej vojne.",
+        "imgPath": "91103_tnkubra1.jpg",
+        "name": "Trencin-Kubranska",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.082789, 48.893209],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91104,
+        "description": "Trenčín - Kubra cintorín. Na miestnom cintoríne je pochovaný vojak rumunskej armády, ktorý padol v oslobodzovacích bojoch v apríli 1945. ",
+        "imgPath": "91104_tnkubra2.jpg",
+        "name": "Trencin-Kubra",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.002762, 48.868998],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91105,
+        "description": "Trenčín - letisko. Na pravej strane čelnej steny budovy letovej kontroly (riadiacej veže) sú umiestnené tri pamätné tabule venované dôstojníkom a generálom letectva, príslušníkom odboja, ktorí pôsobili na letisku v čase 2. svetovej vojny.  ",
+        "imgPath": "91105_tnletisko.jpg",
+        "name": "Trencin-letisko",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.050117, 48.895673],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91106,
+        "description": "Trenčín - OD MADOV. V obchodnom dome Madov na ulici Kragujevských hrdinov č. 10 je osadená pamätná tabuľa z tmavej žuly venovaná pamiatke Jána Kovarčíka zavraždenému gestapom 20.3.1945 na Brezine.",
+        "imgPath": "91106_tnmadov.jpg",
+        "name": "Trencin-Madov",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.038123, 48.90397],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91107,
+        "description": "Trenčín - Orechové. Na pomníku padlých v 1. svetovej vojne pri miestnom kostole je umiestnená na jeho čelnej strane tmavá žulová tabuľa s menami padlých v 2. svetovej vojne.",
+        "imgPath": "91107_tnorechove.jpg",
+        "name": "Trencin-Orechove",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.026535, 48.894888],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91108,
+        "description": "Trenčín - OZETA. Pri vstupe do bývalého podniku OZETA je osadená bronzová tabuľa venovaná pamiatke zamestnancov padlých v Slovenskom národnom povstaní. ",
+        "imgPath": "91108_tnozeta.jpg",
+        "name": "Trencin-Ozeta",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.044917, 48.897478],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91109,
+        "description": "Trenčín - Sokolovňa. Na hornej Sihoti, na budove Sokolovne sú osadené dve pamätné tabule. Prvá pamätná tabuľa je venovaná pamiatke Janka Šebíka. \nDruhá pamätná tabuľa umiestnená na budove je venovaná pamiatke členov Sokola - účastníkov odboja v 2. svetovej vojne a SNP. ",
+        "imgPath": "91109_tnsokol.jpg",
+        "name": "Trencin-Sokolovna",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.039424, 48.894612],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91110,
+        "description": "Trenčín - Synagóga. Na budove synagógy je umiestnená pamätná tabuľa venovaná pamiatke 1573 žiodvských občanov Trenčína odvlečených, umučených a padlých počas 2. svetovej vojny. ",
+        "imgPath": "91110_tnsynagoga.jpg",
+        "name": "Trencin-Synagoga",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.050904, 48.898421],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91111,
+        "description": "Trenčín - veliteľstvo. Pri vstupe do budovy Veliteľstva pozemných síl OS SR na Rázusovej ul. sú po stranách hlavného vchodu do budovy umiestnené dve pamätné tabule venované dôstojníkom a generálom, príslušníkom odboja, ktorí pôsobili v budove veliteľstva v čase 2. svetovej vojny.     ",
+        "imgPath": "91111_tnvelitel.jpg",
+        "name": "Trencin-velitelstvo",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.014123, 48.902292],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91112,
+        "description": "Trenčín - Zlatovce. Na budove Kultúrneho domu v Zlatovciach je umiestnená pamätná tabuľa venovaná letcovi Jánovi Prháčkovi, ktorý zahynul pri obrane Slovenska 24.3.1939.",
+        "imgPath": "91112_tnzlatovce1.jpg",
+        "name": "Trencin-Zlatovce",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.051154, 48.896341],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91113,
+        "description": "Trenčín - železničná stanica. Na budove železničnej stanice je umiestnená pamätná tabuľa, venovaná železničiarom palým v SNP. ",
+        "imgPath": "91113_tnzelstanica.jpg",
+        "name": "Trencin-stanica",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.012729,48.902144],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91114,
+        "description": "Trenčín - Zlatovce. Na budove Materskej školy je umiestnená pamätná tabuľa hrdinom padlým v boji za slobodu, ktorí zahynuli v koncentračných táboroch a pri prechode frontu.",
+        "imgPath": "91114_tnzlatovce2.jpg",
+        "name": "Trencin-Zlatovce",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [17.92803, 48.85247],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91115,
+        "description": "Adamovské Kochanovce.Spoločný pomník občanom obcí: ADAMOVSKÉ KOCHANOVCE, CHOCHOLNÁ - VELČICE, IVANOVCE, MELČICE, ŠTVRTOK NAD VÁHOM, ZEMIANSKE LIESKOVÉ padlých v 2. svetovej vojne ",
+        "imgPath": "91115_adkoch.jpg",
+        "name": "Adamovske_Kochanovce",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.19278, 48.80539],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91116,
+        "description": "Bobot. Pamätná tabuľa venovaná padlým hrdinom v SNP a obetiam druhej svetovej vojny ",
+        "imgPath": "91116_bobot.jpg",
+        "name": "Bobot",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.29392, 48.91033],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91117,
+        "description": "Dolná Poruba. Na miestnom cintoríne sú v spoločnom hrobe pochovaní štyria neznámi vojaci Sovietskej armády, ktorí padli v apríli 1945 v obecnom chotári počas oslobodzovacích bojov.",
+        "imgPath": "91117_dporuba.jpg",
+        "name": "Dolna_Poruba",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.031017, 48.957089],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91118,
+        "description": "Dolná Súča.Na obchodnej budove sú umiestnené dve pamätné tabule padlým občanom, partizánom príslušníkom 2. Stalinovej partizánskej brigády a obetiam fašizmu.\n\n\n",
+        "imgPath": "91118_dsuca.jpg",
+        "name": "Dolna_Suca",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.00396, 48.995448],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91119,
+        "description": "Dolná Súča – Repákovci. Pamätná tabuľa z tmavej žuly na dome, venovaná pamiatke zastrelených partizánov a občanov v osade Repákovci ",
+        "imgPath": "91119_dsucarepakovci.jpg",
+        "name": "Dolna_Suca_Repakovci",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [17.95153, 48.90267],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91120,
+        "description": "Drietoma- pri kríži. V miestnej časti pri Kríži - pod vrchom Nešporovský sa nachádza pomník popraveným partizánom.",
+        "imgPath": "91120_drietoma1.jpg",
+        "name": "Drietoma_1",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [17.956907, 48.894641],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91121,
+        "description": "Drietoma - zdravotné stredisko. Na priečelí budovy sa nachádzajú dve pamätné tabule venovaná pamiatke padlých občanom v 2. svetovej vojne a kpt. Jozefovi Jablonkovi, vojenskému výsadkárovi Červenej armády.",
+        "imgPath": "91121_drietoma2.jpg",
+        "name": "Drietoma_2",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.10644, 48.76261],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91122,
+        "description": "Na budove obecného úradu sú umiestnené dve pamätná tabule venované obetiam 2. svetovej vojny z obce a tabuľa americkému letcovi, ktorý zahynul v katastri obce.",
+        "imgPath": "91122_dubodiel.jpg",
+        "name": "Dubodiel",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [17.961965, 48.95729],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91123,
+        "description": "Horná Súča - Dúbrava. Pomník - pamätný kríž, venovaný vojakom padlým v 2. svetovej vojne, stojí v osade pred kaplnkou. ",
+        "imgPath": "91123_hsucadubrava.jpg",
+        "name": "Horna_Suca_Dubrava",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [17.97697, 48.97307],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91124,
+        "description": "Horná Súča obec. Pamätná tabuľa z tmavej žuly venovaná občanom padlým v 2. svetovej vojne",
+        "imgPath": "91124_hsucaobec.jpg",
+        "name": "Horna_Suca_obec",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [17.982043, 48.994993],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91125,
+        "description": "Horná Súča - Krásny dub. Pamätník na fašistické represálie. Dňa 14. apríla 1945 vypálili nemeckí fašisti za pomoc partizánom sedem domov",
+        "imgPath": "91125_hsucakrasny.jpg",
+        "name": "Horna_Suca_Krasnydub",
+        "type": "Vypalene obce"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.197485, 48.782374],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91126,
+        "description": "Horňany. Pamätná tabuľa venovaná pamiatke padlému partizánovi Štefanovi Pichlerovi",
+        "imgPath": "91126_hornany.jpg",
+        "name": "Hornany",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.10067, 48.99231],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91127,
+        "description": "Horné Srnie.Pomník padlým v SNP stojí na miestnom cintoríne vľavo pred vchodom do kostola.",
+        "imgPath": "91127_hsrnie.jpg",
+        "name": "Horne_Srnie",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.03886, 48.93353],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91128,
+        "description": "Pamätná tabuľa z čiernej žuly venovaná padlým v 2. svetovej vojne, je osadená na budove bývalej školy",
+        "imgPath": "91128_hrabovka.jpg",
+        "name": "Hrabovka",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [17.94497, 48.8665],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91129,
+        "description": "Chocholná-Velčice- Pomník venovaný vojakom oslobodzovacích armád, padlým pri oslobodzovaní obce stojí na starom cintoríne v centre obce",
+        "imgPath": "91129_chochol.jpg",
+        "name": "Chocholna_Velcice",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [17.96972, 48.87697],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91130,
+        "description": "Kostolná-Záriečie - pamätná tabuľa venovaná pamiatke partizána Jaroslava Kroupu sa nachádza na priečelí obecného úradu ",
+        "imgPath": "91130_kostolna.jpg",
+        "name": "Kostolna_Zariecie",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [17.941474, 48.822243],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91131,
+        "description": "Krivosúd-Bodovka - Pamätná tabuľa venovaná Jánovi Valkovi, pôvodne osadená na dome č. 62., je v súčasnosti uložená u majiteľa domu a jej kópia na obecnom úrade",
+        "imgPath": "91131_krivosud.jpg",
+        "name": "Krivosud_Bodovka",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [17.91108, 48.84008],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91132,
+        "description": "Melčice - Pamätná tabuľa venovaná pamiatke Juraja Staňáka a Ondreja Nováka je umiestnená na samostatnom pomníku v parčíku nachádzajúcom sa v strede obce. Pamätná tabuľa sovietskemu partizánovi Serouchovi je umiestnená ....",
+        "imgPath": "91132_melcice.jpg",
+        "name": "Melcice",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.06094, 48.83389],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91133,
+        "description": "Mníchova Lehota - pamätná tabuľa, venovaná padlým v 2. svetovej vojne je umiestnená na budove Obecného domu pri vchode do Kultúrneho strediska",
+        "imgPath": "91133_mnichova.jpg",
+        "name": "Mnichova_Lehota",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.18622, 48.83094],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91134,
+        "description": "Motešice - Pomník padlým v 2. svetovej vojne stojí v miestnom parčíku v strede obce",
+        "imgPath": "91134_motesice.jpg",
+        "name": "Motesice",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.15139, 48.81958],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91135,
+        "description": "Neporadza - Pamätná tabuľa venovaná pamiatke padlých v SNP, je umiestnená na priečelí kultúrneho domu",
+        "imgPath": "91135_neporadza.jpg",
+        "name": "Neporadza",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.226917, 48.901654],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91136,
+        "description": "Omšenie - Pomník venovaný pamiatke padlým v Slovenskom národnom povstaní stojí v parčíku miestnej školy",
+        "imgPath": "91136_omsenie.jpg",
+        "name": "Omsenie",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.21261, 48.89336],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91137,
+        "description": "Omšenie - Hrádok - Pomník postavený na pamiatku SNP sa nachádza na kopci Hrádok nad vodnou nádržou pri Trenčianskych Tepliciach ",
+        "imgPath": "91137_omseniehradok.jpg",
+        "name": "Omsenie_Hradok",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.09692, 48.91217],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91138,
+        "description": "Opatová nad Váhom - Na podstavci pamätníka padlým v 1. svetovej voje, ktorý stojí v strede obce, je umiestnená  pamätná tabuľa venovaná padlým v 2. svetovej vojne",
+        "imgPath": "91138_opatova.jpg",
+        "name": "Opatova",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [17.99042, 48.78569],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91139,
+        "description": "Selec 1 - Pamätník občanom Selca, ktorí zahynuli v nemeckých koncentračných táboroch v rokoch 1944 – 1945, stojí na voľnom priestranstve v ulici hneď vedľa bývalej školy",
+        "imgPath": "91139_seleckriz.jpg",
+        "name": "Selec_kriz",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [17.98992, 48.78553],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91140,
+        "description": "Selec 2 - Pamätná tabuľa  osadená na priečelí bývalej školy je venovaná občanom Selca.",
+        "imgPath": "91140_selecpam.jpg",
+        "name": "Selec_pamatnik",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [17.99006, 48.78564],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91141,
+        "description": "Selec 3 - Pamätný kríž stojí pred miestnym kostolom, je venovaný spomienke na občanov Selca, ktorých 30. novembra 1944 odvliekli Nemci do koncentračných táborov v Nemecku. ",
+        "imgPath": "91141_selecskola.jpg",
+        "name": "Selec_skola",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.07303, 48.86294],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91142,
+        "description": "Soblahov - Pomník padlým v SNP sa nachádza na volnom priestranstve v strede obce ",
+        "imgPath": "91142_soblahov.jpg",
+        "name": "Soblahov",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.16439, 48.78744],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91143,
+        "description": "Svinná - Dvojdielna pamätná tabuľa  venovaná príslušníkom Partizánskej brigády Jána Žižku  je upevnená na priečelí kultúrneho domu",
+        "imgPath": "91143_svinna.jpg",
+        "name": "Svinna",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.11153, 48.80131],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91144,
+        "description": "Trenčianske Jastrabie - Pamätná tabuľa padlým v 2. svetovej vojne je umiestnená na novej budove obecného úradu",
+        "imgPath": "91144_trjastrabie.jpg",
+        "name": "Trencianske_Jastrabie",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [17.97517, 48.83708],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91145,
+        "description": "Trenčianske Stankovce - Pamätná tabuľa venovaná pamiatke Pavla Hudeca je osadená na priečelí školy v bývalej obci Veľké Stankovce",
+        "imgPath": "91145_trstankovce.jpg",
+        "name": "Trencianske_Stankovce",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.11878, 48.93406],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91146,
+        "description": "Trenčianska Teplá 1 - Na čelnej strane pomníka padlým v 1. svetovej vojne v strede obce je osadená tabuľa s menami padlých v 2.svetovej vojne",
+        "imgPath": "91146_tepla1.jpg",
+        "name": "Trencianska_Tepla",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.11817, 48.93225],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91147,
+        "description": "Trenčianska Teplá 2 - náhrobník venovaný pamiatke vojakov Rumunskej armády sa nachádza na miestnom cintoríne ",
+        "imgPath": "91147_tepla2.jpg",
+        "name": "Trencianska_Tepla_rumuni",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.17461, 48.90881],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91148,
+        "description": "Trenčianske Teplice - park - Pomník venovaný padlým v SNP a osloboditeľom mesta je umiestnený pri vstupe do kúpeľného parku oproti kúpeľnej budovy Esplanade",
+        "imgPath": "91148_teplicepark.jpg",
+        "name": "Teplice_park",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.190104, 48.904345],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91149,
+        "description": "Trenčianske Teplice - Baračka - Pomník venovaný pamiatke Ondreja Rebru sa nachádza pri ceste v miestnej časti Baračka",
+        "imgPath": "91149_teplicebar.jpg",
+        "name": "Teplice_Baracka",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.20967, 48.91372],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91150,
+        "description": "Trenčianske Teplice - Kamenica - Pomník venovaný pamiatke amerického letca Rolanda W. Morina sa nachádza nad chatovou oblasťou miestnej časti Kamenica",
+        "imgPath": "91150_teplicekam.jpg",
+        "name": "Teplice_Kamenica",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.02133, 48.84989],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91151,
+        "description": "Trenčianska Turná 1 - Pomník padlým v prvej a druhej svetovej vojne je umiestnený na priestranstve pred miestnou školou ",
+        "imgPath": "91151_trturnazs.jpg",
+        "name": "Trencianska_Turna_zs",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }, {
+      "geometry": {
+        "coordinates": [18.02228, 48.85025],
+        "type": "Point"
+      },
+      "properties": {
+        "UID": 91152,
+        "description": "Trenčianska Turná 2 - Tri pamätné tabule venované pamiatke občanom krotí zahynuli v 2. svetovej vojne sú umiestnené na priečelí kultúrneho domu",
+        "imgPath": "91152_trturnakd.jpg",
+        "name": "Trencianska_Turna_kd",
+        "type": "Pamatnik"
+      },
+      "type": "Feature"
+    }
+  ]
+}
