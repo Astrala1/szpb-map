@@ -245,6 +245,7 @@ input[type=checkbox] {
     display:flex;
     flex-direction: column;
     justify-content: center
+    max
 
   }
 

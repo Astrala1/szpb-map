@@ -33,7 +33,6 @@ function makePopUp(info) {
   let popup = '<div id="infoBox" >' +
     '<div class="boxContent">' +
     '<div class="header">' +
-    '<div class="header50">' + '<p class="popupText heading">' + info.name + '</p></div>' +
     '<div class="header50">' + '<p class="popupText heading">' + info.type + '</p></div>' +
     // '<div class="header50">'+'<p class="popupText heading">'+ image+'</p></div>'+
     '</div>' +
