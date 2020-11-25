@@ -7,9 +7,10 @@
   <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
   <link rel="stylesheet" type="text/css" href="css/main.css">
   <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-131810603-1"></script>
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag() { dataLayer.push(arguments); }
@@ -22,14 +23,17 @@
 
 <body>
   <input id="legend_button" type="button" class="w3-button w3-red" value="Legenda" onclick="openLegend()">
-  <div class="container">
-    <div id="mapcontain" class="map_container">
+  <div class=" d-flex container-fluid flex-column">
+    <div id="mapcontain" class="map_container d-flex flex-column">
       <div id="map"></div>
-      <div id="legend"></div>
+      <div id="legend" ></div>
     </div>
-    <div class="footer">
-      <p>SZPB 2019 | <a href="mailto:oblvtn@szpb.sk">oblvtn@szpb.sk</a></p>
-    </div>
+    <footer class="page-footer font-small">
+       <!-- Copyright -->
+  <div class="footer-copyright text-center py-3">© SZPB 2020
+  </div>
+  <!-- Copyright -->
+    </footer>
   </div>
   <script src="js/main.js"></script>
   <!-- Site-locked -->
