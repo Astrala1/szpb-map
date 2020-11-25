@@ -9,19 +9,24 @@ let markerArr = []
 const icons = {
   "Bunker": {
     img:"bunker_icon.png",
-    sType:"Bunker, Partisan Bunker"
+    sType:"Bunker",
+    eType:"Partisan Bunker"
   },
   "Masovy hrob": {
     img:"hroby_icon.png",
-    sType:"Masový hrob, Mass Graves"
+    sType:"Masový hrob",
+    eType:"Mass Graves"
   },
   "Vypalene obce": {
     img:"vypalene_icon.png",
-    sType:"Vypálené obce, Burned-Down Villages"
+    sType:"Vypálené obce",
+    eType:"Burned-Down Villages"
   },
   "Pamatnik": {
     img:"pamatnik_icon.png",
-    sType:"Pamätník, Memorial"
+    sType:"Pamätník",
+    eType:"Memorial"
+    
   }
 };
 
@@ -29,15 +34,18 @@ const icons = {
 
 //TODO : make this better and nice.. not so messy
 function makePopUp(info) {
-  let image = info.img.length > 1 ? info.img : "NONE"
-  let popup = '<div id="infoBox" >' +
-    '<div class="boxContent">' +
+  // let image_path = info.img.length > 1 ? desc_image_pth + info.img : "data:,"
+
+  let image_path = info.img.length > 1 ? '<img class="img-fluid w-100 h-100" src=' + desc_image_pth + info.img + ' />' : ''
+
+  let popup = '<div id="infoBox d-flex" >' +
+    '<div class="d-flex-column ">' +
     '<div class="header">' +
     '<div class="header50">' + '<p class="popupText heading">' + info.type + '</p></div>' +
     // '<div class="header50">'+'<p class="popupText heading">'+ image+'</p></div>'+
     '</div>' +
     '<figure>' +
-    '<img src=' + desc_image_pth + image + ' />' +
+    image_path +
     '<figcaption class="popupText">' + info.desc.toString() + '</figcaption>' +
     '</figure>' +
     '</div>'
@@ -57,17 +65,29 @@ function toggleMarker(mark_type) {
 
 }
 
-
 function createTypeToggles() {
   types = Object.keys(icons)
   let toggleDiv = document.getElementById("legend");
   let table = document.createElement('div')
-  table.setAttribute('class','table')
+  table.setAttribute('class','d-flex p-1')
   table.setAttribute('id','legend_table')
+  
   let toggleDivUL = document.createElement("ul");
+  toggleDivUL.setAttribute('class','list-group d-flex flex-md-row flex-sm-column ')
+ 
   for (let i = 0; i < types.length; i++) {
+    // let col_leg = document.createElement("div");
+    // col_leg.setAttribute('class','col-xs-3')
+    // let t = document.createTextNode(i);
+    // col_leg.appendChild(t)
+ 
+
     let li = document.createElement('li');
-    li.className = 'markerSelect';
+    li.setAttribute('class','list-group-item border')
+    
+    let liInside = document.createElement('div')
+    
+    liInside.setAttribute('class',' clearfix d-flex mw-50')
 
     let typeSelector = document.createElement('input');
     typeSelector.type = 'checkbox';
@@ -75,22 +95,47 @@ function createTypeToggles() {
     typeSelector.setAttribute('checked', true);
     typeSelector.setAttribute('class', types[i]);
     typeSelector.setAttribute('onclick', 'toggleMarker("' + types[i] + '_toggle")');
+    liInside.appendChild(typeSelector);
+
+
+    let imgDiv = document.createElement('img')
+    imgDiv.setAttribute('class','img-fluid ')
+    imgDiv.setAttribute('src',map_image_pth + icons[types[i]].img)
+    imgDiv.setAttribute('height',50)
+    imgDiv.setAttribute('width',50)
+    imgDiv.setAttribute('style',"height: max-content;")
+    
+    liInside.append(imgDiv)
+
+    var para = document.createElement("p");
+    para.setAttribute('class','text-center')
+    let s = document.createTextNode(icons[types[i]].sType)
+    para.appendChild(s)
+    var br = document.createElement("br");
+    para.appendChild(br)
+    let e = document.createTextNode(icons[types[i]].eType)
+    para.appendChild(e)
+    // para.appendChild(t)
+
+    liInside.appendChild(para)
+
+    
+   
+
+
+    li.appendChild(liInside)
+
+  
+
+    // // Create the label and the associated name
+    // let label = document.createElement('label');
+    // label.setAttribute('for', typeSelector.getAttribute('id'))
+    
+  
 
 
 
-    // Create the label and the associated name
-    let label = document.createElement('label');
-    label.setAttribute('for', typeSelector.getAttribute('id'))
-    let t = document.createTextNode(icons[types[i]].sType);
-    label.appendChild(t)
-
-    li.appendChild(label);
-    li.appendChild(typeSelector);
-
-    //TODO: figure out how to get the li close to text responsively.
-    li.setAttribute('style', 'background:url("' + map_image_pth + icons[types[i]].img + '") no-repeat 7px 50% transparent;')
-
-
+    // col_leg.appendChild(li)
     toggleDivUL.appendChild(li);
 
   }
@@ -119,14 +164,15 @@ function createTypeToggles() {
 function openLegend(){
   let legend = document.getElementById('legend')
   let map_div = document.getElementById('map')
+  console.log(map_div.className);
   if (map_div.className==='invisible'){
-    legend.setAttribute("style","width:null;display:null;visibility:null;")
-    map_div.setAttribute('class','map_container')
+    legend.removeAttribute('style');
+    map_div.setAttribute('class','map_container d-flex flex-column')
+    legend.setAttribute('class','hidden-s-down')
     
-
-  }
+   }
   else{
-    legend.setAttribute('style','width:100%;display:flex;visibility:visible;')
+    legend.setAttribute('style','display:flex;visibility:visible;')
     map_div.setAttribute('class','invisible')
   }
 
@@ -163,7 +209,9 @@ function setMarker(map, feature,infowindow) {
     infowindow.setPosition(latLng);
     // anchor the infowindow on the marker
     infowindow.setOptions({
-      pixelOffset: new google.maps.Size(0, -30)
+      pixelOffset: new google.maps.Size(0, -30),
+      maxWidth:500,
+      maxHeight:700
     });
 
     google.maps.event.addListener(infowindow,"closeclick",() =>{
